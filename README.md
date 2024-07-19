@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Neuro Sentry App](https://github.com/ausafgill/NeuroSentry)
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **NodeJs**
 
 - 💬 Ask me about **Flutter,Firebase,Android**
 
